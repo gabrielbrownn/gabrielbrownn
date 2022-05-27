@@ -1,5 +1,5 @@
 ## Gabriel Brown. Estudante de programação e tecnologia.
-- 🔭 Back-end Junior
+- 🔭 Front-end Junior
 - 🌱 Atualmente estudando SQL, MySQL, C#, .NET Core
 - ⚡ Apaixonado por games e eSports
 ##
