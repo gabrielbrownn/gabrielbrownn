@@ -1,4 +1,4 @@
-## Gabriel Brown. Estudante de programação e tecnologia.
+## Gabriel Brown. 
 - Front-end Junior
 - Boa comunicação com designers, gerente de projetos, desenvolvedores para executar protótipos e trazer soluções inovadoras. Criação de sistema de login e integrações API utilizando HTML, CSS, JavaScript, PHP, SQL.
 - Apaixonado por games e eSports
