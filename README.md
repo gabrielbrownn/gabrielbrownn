@@ -1,7 +1,7 @@
 ## Gabriel Brown. Estudante de programação e tecnologia.
-- 🔭 Front-end Junior
-- 🌱 Atualmente estudando SQL, MySQL, C#, .NET Core
-- ⚡ Apaixonado por games e eSports
+- Front-end Junior
+- Boa comunicação com designers, gerente de projetos, desenvolvedores para executar protótipos e trazer soluções inovadoras. Criação de sistema de login e integrações API utilizando HTML, CSS, JavaScript, PHP, SQL.
+- Apaixonado por games e eSports
 ##
 <div align="center">
   <a href="https://github.com/gabrielbrownn">
