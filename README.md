@@ -1,5 +1,5 @@
 ## Gabriel Brown. 
-- Desenvolvedor Front-end 
+- Estudante de Análise e Desenvolvimento de Sistemas 
 - Boa comunicação com designers, gerente de projetos, desenvolvedores para executar protótipos e trazer soluções inovadoras. Criação de sistema de login e integrações API utilizando HTML, CSS, JavaScript, PHP, SQL.
 - Apaixonado por games e eSports
 ##
@@ -13,8 +13,6 @@
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
           
           
