@@ -1,6 +1,6 @@
 ## Gabriel Brown. 
-- Estudante de Análise e Desenvolvimento de Sistemas 
-- Boa comunicação com designers, gerente de projetos, desenvolvedores para executar protótipos e trazer soluções inovadoras. Conhecimento em HTML, CSS, JavaScript, TypeScript, React e Jest.
+- Desenvolvedor Full Stack Junior 
+- Boa comunicação com designers, gerente de projetos, desenvolvedores para executar protótipos e trazer soluções inovadoras. Conhecimento em Next, Node, TypeScript, React, Jest e Cloud Computing.
 - Apaixonado por games e eSports
 ##
 <!-- <div align="center">
@@ -10,10 +10,12 @@
 </div> -->
 <div style="display: inline_block" align="center"><br>
   
-  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
           
