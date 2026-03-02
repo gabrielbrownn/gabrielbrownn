@@ -1,7 +1,6 @@
 ## Gabriel Brown. 
-- Desenvolvedor Full Stack Junior 
+- Desenvolvedor Full Stack  
 - Boa comunicação com designers, gerente de projetos, desenvolvedores para executar protótipos e trazer soluções inovadoras. Conhecimento em Next, Node, TypeScript, React, Jest e Cloud Computing.
-- Apaixonado por games e eSports
 ##
 <!-- <div align="center">
   <a href="https://github.com/gabrielbrownn">
